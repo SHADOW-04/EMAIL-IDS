@@ -1,6 +1,5 @@
-<h1>MY PROTON-MAIL ID 👇</h1>
-
-<h2> ShadowXD29@proton.me </h2>
+## MY PROTON-MAIL ID 👇
+- ShadowXD29@proton.me
 
 
 ---------
@@ -8,6 +7,5 @@
 
 
 
-<h1>MY GMAIL ID 👇</h1>
-
-<h2> arsenicx292@gmail.com </h2>
+## MY GMAIL ID 👇
+- arsenicx292@gmail.com
